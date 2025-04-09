@@ -1,12 +1,16 @@
- Project Proposal: FC Black Pearl Football Club Management System
 
- 1. Project Title  
+Project Proposal: FC Black Pearl Football Club Management System
+Prepared by: Mahmud Un Nabi 
+Date: 12/04/2025  
+Contact: unmahmud@gmail.com 
+
+1. Project Title  
 FC Black Pearl - Football Club Management System  
 
- 2. Project Overview  
+2. Project Overview  
 The FC Black Pearl Football Club Management System is a Java-based application designed to streamline the administrative and operational tasks of a football club. It provides tools for managing players, coaches, finances, matches, and team performance, making it easier for club managers, coaches, players, and fans to access relevant information.
 
- 3. Objectives  
+3. Objectives  
 The primary objectives of this project are:  
 1. Player Management: Add, remove, and edit player details (salary, contract, position, stats).  
 2. Coach Management: Hire/fire coaches, set formations, and track performance.  
@@ -64,12 +68,12 @@ The system follows a modular design with the following classes:
 - Improved fan engagement through accessible information  
 
  8. Project Timeline  
-| Phase | Tasks | Duration |
-|-----------------------|--------------------------------------------------|------------|
-| 1. Planning          | Requirements gathering, design          | 1 week |
-| 2. Development | Core features (Player, Coach, Match) | 2 weeks |
-| 3. Testing            | Debugging, input validation                  | 1 week |
-| 4. Deployment   | Final testing, documentation                | 1 week |
+| Phase                 | Tasks                                | Duration |
+|-----------------------|--------------------------------------|----------|
+| 1. Planning           | Requirements gathering, design       | 1 week   |
+| 2. Development        | Core features (Player, Coach, Match) | 2 weeks  |
+| 3. Testing            | Debugging, input validation          | 1 week   |
+| 4. Deployment         | Final testing, documentation         | 1 week   |
 
  9. Future Enhancements  
 - GUI Implementation (JavaFX/Swing) for better user experience  
@@ -77,14 +81,10 @@ The system follows a modular design with the following classes:
 - AI-based Team Strategy Suggestions  
 - Mobile App Integration for real-time updates  
 
- 10. Conclusion  
+10. Conclusion  
 The FC Black Pearl Football Club Management System provides an efficient way to manage a football club's operations, from player contracts to match scheduling. It is designed for ease of use, scalability, and future enhancements, making it a valuable tool for club administrators, coaches, players, and fans.  
 
----
- Prepared by: [Your Name]  
- Date: [Submission Date]  
- Contact: [Your Email]  
 
----
 
-This proposal outlines the project's scope, features, and technical approach while keeping it concise and professional. Let me know if you'd like any modifications! ⚽🏆
+
+
